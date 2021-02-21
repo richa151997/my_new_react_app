@@ -3,7 +3,7 @@ const contactData = [
         id:1,
         // name: "Felix",
         imgUrl: "http://placekitten.com/200/100",
-        phone: "(212) 555-4567",
+        phone: "(212) 545-4567",
         email: "thecat@hotmail.com"
     },
     {
